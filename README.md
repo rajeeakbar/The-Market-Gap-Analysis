@@ -3,7 +3,9 @@ After analyzing 150,000 snack products, the biggest market gap is High-Protein, 
 
 # B. Project Links
    Notebook: https://github.com/rajeeakbar/The-Market-Gap-Analysis/blob/main/Market_Gap_Analysis.ipynb
-   Dashboard: Looker Studio
+  
+   Dashboard: https://datastudio.google.com/reporting/535eb775-1dc0-4959-890b-20d5d2c9136d
+  
    Presentation: Google Slides/PDF
 
 # C. Technical Explanation
