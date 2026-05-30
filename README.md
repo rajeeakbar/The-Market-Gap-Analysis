@@ -6,7 +6,7 @@ After analyzing 150,000 snack products, the biggest market gap is High-Protein, 
   
    Dashboard: https://datastudio.google.com/reporting/535eb775-1dc0-4959-890b-20d5d2c9136d
   
-   Presentation: Google Slides/PDF
+   Presentation: https://docs.google.com/presentation/d/1NtsXTRCz6kYbq-SothcWQAkp4usqypGpr7DgUAkWfIA/edit?usp=sharing
 
 # C. Technical Explanation
    # How data cleaning was handled
