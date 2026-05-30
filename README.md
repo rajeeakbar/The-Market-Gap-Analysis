@@ -2,7 +2,7 @@
 After analyzing 150,000 snack products, the biggest market gap is High-Protein, Low-Sugar products. Protein and Energy Bars show the strongest opportunity with average 24.3g protein and under 8.2g sugar per 100g. Top protein sources are Whey, Peanuts, and Almonds.
 
 # B. Project Links
-   Notebook: https://github.com/rajeeakbar/The-Market-Gap-Analysis/blob/main/Market_Gap_Analysis.ipynb
+   Notebook:https://colab.research.google.com/drive/16aZ1qcZwAToGpszbHQn8V4lktpYNM9N7?usp=sharing
   
    Dashboard: https://datastudio.google.com/reporting/535eb775-1dc0-4959-890b-20d5d2c9136d
   
